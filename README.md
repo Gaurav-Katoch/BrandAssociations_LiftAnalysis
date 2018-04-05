@@ -1,6 +1,4 @@
 
-Lift Analysis, Multidimensional scaling of different car brands mentioned in conversations was done to analyze which are brands are similar to each other and more frequently mentioned together. This analysis can be useful for marketing teams to figure out their competitor brands and similar attributes with different cars which can help them market their brand accordingly.
-
 Description
 -------------------------------------------------------------------------------------------------------------------------
 This analysis involved scraping conversation messages among different users on a car forum and analyzing them to see relationship between various car brands and their respective attributes. Also, different brands were analyzed with respect to each other to see which brands are frequently mentioned together.
